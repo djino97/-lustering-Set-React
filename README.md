@@ -15,4 +15,4 @@
 Также можно нормализовать входное множество образов.
 ![Alt text](/scrin/scrin_2.JPG?raw=true "Optional Title")
 Состояние 3 -- вывод результата кластеризации входного множества
-![Alt text](/scrin/scrin_2.JPG?raw=true "Optional Title")
+![Alt text](/scrin/scrin_3.JPG?raw=true "Optional Title")
